@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+nltk
+streamlit
+ipykernel
+scikit-learn
+transformers
+torch
+ipykernel
+ipywidgets
+sentencepiece
+sentence-transformers

@@ -13,3 +13,6 @@ ipykernel
 ipywidgets
 sentencepiece
 sentence-transformers
+ipynb
+import-ipynb
+helpers
